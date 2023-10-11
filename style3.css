@@ -1,0 +1,21 @@
+<style>
+    #signup-button {
+        background-color:#fff; /* Set the background color */
+        color: #fff;            /* Set the text color */
+        padding: 10px 20px;      /* Set padding for better appearance */
+        border: none;            /* Remove the default button border */
+        border-radius: 5px;      /* Add rounded corners */
+        cursor: pointer;         /* Change the cursor on hover */
+    }
+
+    #signup-button:hover {
+        background-color: blue; /* Change the background color on hover */
+    }
+</style>/* styles.css */
+.body {
+    background-color: #8A2BE2(90, 58, 205);
+}
+
+.container {
+    padding: 20px;
+    background-color: white;

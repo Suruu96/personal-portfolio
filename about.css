@@ -1,0 +1,42 @@
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style section headings */
+section h2 {
+    font-size: 24px;
+    color: #0077b6; /* Custom color */
+}
+
+/* Style paragraphs within sections */
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+#introduction {
+    background-color: #f0e68c; /* Pale goldenrod */
+}
+
+/* Style sections with a common class */
+.highlighted-section {
+    background-color: #f0e68c; /* Pale goldenrod */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Style links */
+a {
+    color: #0077b6; /* Link color */
+    text-decoration: none; /* Remove underlines */
+}
+
+/* Change font styles */
+body {
+    font-family: Arial, sans-serif;
+}
+@media (max-width: 768px) {
+  
+}
+
